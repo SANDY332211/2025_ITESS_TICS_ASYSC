@@ -35,13 +35,6 @@ ancho = 20
 largo = 5 * 9
 ancho * largo
 
-# Asignar a la variable _ Esto significa que cuando estés usando Python como una calculadora de escritorio, es más fácil seguir calculando
-impuesto = 12.5 / 100
-precio = 100.50
-precio * impuesto
-precio + _
-round(_, 2)
-
 
 
 
